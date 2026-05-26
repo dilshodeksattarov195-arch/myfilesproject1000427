@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrpdate",
+        "uuid": 2592744,
+        "checksum": "8s8y2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
